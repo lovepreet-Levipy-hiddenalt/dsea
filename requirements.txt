@@ -1,0 +1,6 @@
+requests
+httpx
+asyncio
+python-telegram-bot
+user_agent
+flask
