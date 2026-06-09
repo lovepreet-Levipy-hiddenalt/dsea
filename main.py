@@ -31,7 +31,7 @@ def keep_alive():
 logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s', level=logging.INFO)
 logger = logging.getLogger(__name__)
 
-BOT_TOKEN = "7802803805:AAHpQsYUtbOth1X1jgpJXcNn5yp0pWblgpo"
+BOT_TOKEN = "8706274631:AAFcAQ5ZVFakHG_S7S7tK9QAYcVNhff-PJA"
 
 ADMIN_IDS = {1492627428}
 authorized_users = set()
